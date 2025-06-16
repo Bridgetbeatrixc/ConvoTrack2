@@ -1,0 +1,9 @@
+{
+  "email": "test@example.com",
+  "password": "test123",
+  "fullName": "Test User",
+  "businessName": "Test Business",
+  "businessField": "technology",
+  "businessAddress": "123 Test St",
+  "phoneNumber": "+628123456789"
+} 
